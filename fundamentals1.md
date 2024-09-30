@@ -1,6 +1,6 @@
-# fundaments weeks 1-5 #
+# fundaments weeks 1-6 #
 
-## intro to cs through python basics ##
+## days 1-5: intro to cs through python basics ##
 
 ## Python for Everybody
 
@@ -20,3 +20,13 @@ This course has been created by Professor Charles Severance from the University 
 - If you prefer reading books, you can read the HTML version of the chapter related to the lesson linked on the lesson's page, or you can download the whole book in different formats from [this page](https://www.py4e.com/book).
 - If you face any problems, feel free to ask questions. You can join the OSSU chat for this course here: <https://discord.gg/syA242Z>.
 - You only need to complete the course up to the Regular Expressions lesson. The rest of the course is optional.
+
+## days 6-10: Python Basics Revisted
+
+**Link**: <https://www.freecodecamp.org/news/learn-python-basics/>
+
+## days 11-14: Git and Version Control
+
+**Link**: 
+
+
