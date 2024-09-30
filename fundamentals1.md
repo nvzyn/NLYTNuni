@@ -52,4 +52,6 @@
 
 > Utilize the CompTIA Network+ study materials in order to get a grasp on networking fundamentals which will be important for things such as cloud computing.
 
-**Link**: <https://www.youtube.com/watch?v=dEU35-jd4DY&list=PLc6LqxQFwub-5elDUlAEQLAs_V7SSSfqH>
+**Links**: <https://www.reddit.com/r/CompTIA/comments/169sihg/a_resource_guide_on_how_to_study_network_for_free/>
+
+*bonus*: <https://www.youtube.com/watch?v=dEU35-jd4DY&list=PLc6LqxQFwub-5elDUlAEQLAs_V7SSSfqH>
