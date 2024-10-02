@@ -10,5 +10,9 @@
 # Monitoring and Logging // Weeks 14-15
 
 ## days 92-98: Prometheus and Grafana
-> get started with Proe
+> get started with Prometheus and Grafana, and the practices of continuous monitoring and logging
+
+**Links**: Getting Started with Prometheus<https://prometheus.io/docs/prometheus/latest/getting_started/> | Grafana Documentation<https://grafana.com/docs/> | Grafana Tutorials<https://grafana.com/tutorials/> 
+
+
 
